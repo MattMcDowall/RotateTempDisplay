@@ -17,7 +17,7 @@ In practice, some of these steps can be performed simultaneously, but this is es
 - An Alma Set listing the items that are being **added** to the location
 - If you wish to update an associated Primo Collection, of course, that collection needs to exist
 
-> **Note:** It does not matter whether the Alma Sets are logical or itemized. The first set, in fact, can be created as a logical set which simply includes all items that have the specific temporary location set.
+> **Note:** It does not matter whether the Alma Sets are logical or itemized. The first set, in fact, can be a logical set which simply includes all items which have that specific temporary location.
 
 ### **Dependencies**
 You'll need Python to run the script, of course. You will also need the `requests` and `xmltodict` packages.
