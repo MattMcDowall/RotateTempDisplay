@@ -31,8 +31,8 @@ What I’ve done is to create a script called `Credentials.py` which resides in 
 
 Credentials.py is a very simple file, looking like this:
 
-    prod_api = ‘a1aa11111111111111aa1a11aaaa11a111aa’
-    sand_api = ‘z9zzz99zzz99z9z999zzzzz999zz9999z999’
+    prod_api = 'a1aa11111111111111aa1a11aaaa11a111aa'
+    sand_api = 'z9zzz99zzz99z9z999zzzzz999zz9999z999'
 
 As you can see in the scripts themselves, we import that file thus:
 
